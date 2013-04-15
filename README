@@ -1,0 +1,12 @@
+MyQRCodeReader
+
+ZXing Team による「QR コードスキャナー」をベースに作成した Android 用簡易バーコードリーダーです。
+このプロジェクトには ZXing Team の以下のプロジェクトのソフトウェア資産が含まれます。
+
+This is a simple barcode reader application for Android developed on the basis of the ZXing Team's "Barcode Scanner".
+This project contains the software resources of the following project of the ZXing Team.
+
+"zxing Multi-format 1D/2D barcode image processing library with clients for Android, Java"
+http://code.google.com/p/zxing/
+
+2013 KLab Inc.
